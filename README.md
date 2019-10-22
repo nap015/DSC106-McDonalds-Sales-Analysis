@@ -36,12 +36,15 @@ The following graph charts show that after the release of the Impossible Burger,
 
 
 Hamburger sales dropped **14.4%** (from $7.9m USD to $6.8m USD),
+
 ![Hamburger (HM) Sales Data from '16-'19](Hamburger (HM) Sales Data from '16-'19.png)
 
 Chicken Fillet sales dropped **14.0%** (from $3.3m to $2.9m),
+
 ![Chicken Fillet (CF) Sales Data from '16-'19](Chicken Fillet (CF) Sales Data from '16-'19.png)
 
 and Fish Fillet sales dropped **13.3%** (from $2.0m to $1.7m).
+
 ![Fish Fillet (FF) Sales Data from '16-'19](Fish Fillet (FF) Sales Data from '16-'19.png)
 
 
