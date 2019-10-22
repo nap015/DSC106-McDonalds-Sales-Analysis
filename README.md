@@ -1,19 +1,4 @@
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
 # Introduction
 
 For the past few years, McDonald's burger sales have been increasing steadily, indicating a positive growth.
