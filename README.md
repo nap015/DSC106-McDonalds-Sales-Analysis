@@ -9,6 +9,7 @@ Two datasets will be mainly used for this analysis (monthly_sales, daily_sales) 
 the _type of menu_ (**Hamburger**, **Chicken Fillet**, **Fish Fillet**),
 and the _broader region_ encompassing the location of each sales (**Northeast**, **Southeast**, **Central**, **Northwest**, **Southwest**). 
 
+![Hamburger](t-mcdonalds-Hamburger.jpg)
 
 # Long-Term Analysis
 
