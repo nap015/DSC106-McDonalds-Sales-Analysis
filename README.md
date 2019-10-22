@@ -70,7 +70,10 @@ and gained high popularity.
 I suggest that we expand the sales of McVegan burgers to the U.S. to attract potential customers and sway them from our competitor's vegetarian burgers. 
 Another crucial advantage of the McVegan is that this burger is _vegan_ as its name suggests, whereas the Impossible Burger is only _vegetarian_ because it contains mayonnaise. This means that if the McVegan is also sold in the States, it will not only attract vegetarian but also vegan customers. 
 ```markdown
-It is estimated by the [Vegetarian Times](https://www.vegetariantimes.com/uncategorized/vegetarianism-in-america) that about 1 in every 7.3 vegetarians have a vegan-only diet, suggesting we could have up to an additional 15.9% influx of customers (compared to consumers of the Impossible Burger) with the inclusion of the McVegan on our menu.
+It is estimated by the [Vegetarian Times](https://www.vegetariantimes.com/uncategorized/vegetarianism-in-america) 
+that about 1 in every 7.3 vegetarians have a vegan-only diet, 
+suggesting we could have up to an additional 15.9% influx of customers 
+(compared to consumers of the Impossible Burger) with the inclusion of the McVegan on our menu.
 ```
 
 
