@@ -28,7 +28,18 @@ and the _broader region_ encompassing the location of each sales (**Northeast**,
 # Long-Term Analysis
 
 The following data will go over our **monthly sales** data in _US Dollars(**$**)_ from **January 2016** to our most recent data from **September 2019**, covering all of the states. 
-The overall graph shows a steady increase of sales from 2016 to 2019, but some fluctuation is observable
+
+A brief summary of our overall sales: Hamburgers are our best-selling item, with Chicken Fillet following next and the Fish Fillet after that.
+
+![Menu Sales Progress '16 - '19](Menu Sale Progress '16 - '19.png)
+
+The overall graph shows a steady increase of sales from 2016 to 2019, but some fluctuation is observable.
+February, May and August are the months that we reach peak sales in all five regions, while the months following those months
+are typically lower in sales. 
+
+![Regional Sales Progress '16 - '19](Regional Sales Progress '16 - '19.png)
+
+Among those fluctuations, we can see a noticeable drop in October 2018 (highlighted in red), which we will discuss in the following paragraph.
 
 
 ## Competitor Influence
@@ -36,13 +47,17 @@ The overall graph shows a steady increase of sales from 2016 to 2019, but some f
 In October 2018, our strongest competitor **Burger King** released the **Impossible Burger**, 
 a _vegetarian_ option for their signature menu, the Whopper.
 
-The following graph charts show that after the release of the Impossible Burger, our overall sales took a critical blow of **14.1%**;
+The following graph charts show that after the release of the Impossible Burger, our overall sales took a critical blow of **14.1%**:
 
-Hamburger sales dropped **14.4**% (from $7.9m USD to $6.8m USD),
 
-Chicken Fillet sales dropped **14.0**% (from $3.3m to $2.9m),
+Hamburger sales dropped **14.4%** (from $7.9m USD to $6.8m USD),
+![Hamburger (HM) Sales Data from '16-'19](Hamburger (HM) Sales Data from '16-'19.png)
 
-and Fish Fillet sales dropped **13.3**% (from $2.0m to $1.7m). 
+Chicken Fillet sales dropped **14.0%** (from $3.3m to $2.9m),
+![Chicken Fillet (CF) Sales Data from '16-'19](Chicken Fillet (CF) Sales Data from '16-'19.png)
+
+and Fish Fillet sales dropped **13.3%** (from $2.0m to $1.7m).
+![Fish Fillet (FF) Sales Data from '16-'19](Fish Fillet (FF) Sales Data from '16-'19.png)
 
 
 Although many different factors should be considered for this decrease in sales and there was a slight, consistent decrease in Hamburger sales from September to October in the past years ranging from 2.1% (2016) to 2.5% (2017), it is observable that the Impossible Burger has a significantly negative effect on our sales.
