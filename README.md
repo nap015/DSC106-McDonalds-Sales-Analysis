@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/nap015/Trend-Analysis-in-McDonalds-Sales/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For the past few years, McDonald's burger sales have been increasing steadily, indicating a positive growth.
+While this shows that our products continues to be popular among our customers, there is a need for us to analyze our past
+accomplishments and suggest any possible improvements we could make to further stabilize our #1 status in the fast food market.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Long-term Analysis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following data will go over our monthly sales data (in USD) from January 2016 to our most recent data from September 2019, covering
+all of the states. The sales data will be divided by two categories: the type of menu (Hamburger, Chicken Fillet, Fish Fillet),
+and the broader region for each of these sales (Northeast, Southeast, Central, Northwest, Southwest).
+
+### Competitor Influence
+In October 2018, our strongest competitor Burger King(referred as 'BK' from now on) released the Impossible Burger.
+The following graph charts show that 
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +35,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Short-term Analysis
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nap015/Trend-Analysis-in-McDonalds-Sales/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The following data will go over our daily sales data (in USD) from January 2016, covering all of the states. 
+The sales data will be divided again by two categories: the type of menu and the broader region for each of these sales.
+This time, we will explore if there are any discrepancies between the sales depending on the day of the week, or the time of the month
+that the purchases were made.
