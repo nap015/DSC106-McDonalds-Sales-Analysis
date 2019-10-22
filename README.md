@@ -43,10 +43,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## Solution
 
-Currently, McDonalds does not offer any vegetarian/vegan burger options in the United States, even though we have such options 
-(the [McVegan](https://www.today.com/food/mcdonald-s-testing-vegan-burger-finland-t117145)) available for customers abroad that
+Currently, McDonalds does not offer any vegetarian/vegan burger options in the United States, even though we have such options, e.g. the [**McVegan**](https://www.today.com/food/mcdonald-s-testing-vegan-burger-finland-t117145)) available for customers abroad that
 gained high popularity. 
-I suggest that we expand the sales of McVegan burgers to the U.S. to attract potential customers and sway them from our competitor's vegetarian burgers. Another crucial advantage of the McVegan is that this burger is _vegan_ as its name suggests, whereas the Impossible Burger is only _vegetarian_ because it contains mayonnaise. This means that if the McVegan is also sold in the States, it will not only attract vegetarian but also vegan customers. It is estimated by the [Vegetarian Times](https://www.vegetariantimes.com/uncategorized/vegetarianism-in-america) that about 1 in every 7.3 vegetarians have a vegan-only diet, suggesting we could have another 15/9% influx of customers with the addition of the McVegan on our menu.
+I suggest that we expand the sales of McVegan burgers to the U.S. to attract potential customers and sway them from our competitor's vegetarian burgers. 
+Another crucial advantage of the McVegan is that this burger is _vegan_ as its name suggests, whereas the Impossible Burger is only _vegetarian_ because it contains mayonnaise. This means that if the McVegan is also sold in the States, it will not only attract vegetarian but also vegan customers. 
+It is estimated by the [Vegetarian Times](https://www.vegetariantimes.com/uncategorized/vegetarianism-in-america) that about 1 in every 7.3 vegetarians have a vegan-only diet, suggesting we could have another 15/9% influx of customers with the addition of the McVegan on our menu.
 
 # Short-term Analysis
 
