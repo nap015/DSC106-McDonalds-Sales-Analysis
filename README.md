@@ -9,7 +9,7 @@ Two datasets will be mainly used for this analysis (monthly_sales, daily_sales) 
 the _type of menu_ (**Hamburger**, **Chicken Fillet**, **Fish Fillet**),
 and the _broader region_ encompassing the location of each sales (**Northeast**, **Southeast**, **Central**, **Northwest**, **Southwest**). 
 
-![Hamburger](t-mcdonalds-Hamburger.jpg)
+![Hamburger](images/t-mcdonalds-Hamburger.jpg)
 
 # Long-Term Analysis
 
@@ -17,13 +17,13 @@ The following data will go over our **monthly sales** data in _US Dollars_ **$**
 
 A brief summary of our overall sales: Hamburgers are our best-selling item, with Chicken Fillet following next and the Fish Fillet after that.
 
-![Menu Sales Progress '16 - '19](Menu Sale Progress '16 - '19.png)
+![MenuSalesProgress'16-'19](images/Menu Sale Progress '16 - '19.png)
 
 The overall graph shows a steady increase of sales from 2016 to 2019, but some fluctuation is observable.
 February, May and August are the months that we reach peak sales in all five regions, while the months following those months
 are typically lower in sales. 
 
-![Regional Sales Progress '16 - '19](Regional Sales Progress '16 - '19.png)
+![RegionalSalesProgress'16-'19](images/Regional Sales Progress '16 - '19.png)
 
 Among those fluctuations, we can see a noticeable drop in October 2018 (highlighted in **red**), which we will discuss in the following paragraph.
 
