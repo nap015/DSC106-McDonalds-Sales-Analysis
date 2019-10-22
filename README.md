@@ -19,14 +19,11 @@ A brief summary of our overall sales: Hamburgers are our best-selling item, with
 ![DistributionMenu19/09](images/DistributionofSalesamongMenus(2019.09).png)
 
 
-![MenuSalesProgress'16-'19](images/MenuSaleProgress'16-'19.png)
-
-
 The overall graph shows a steady increase of sales from 2016 to 2019, but some fluctuation is observable.
 February, May and August are the months that we reach peak sales in all five regions, while the months following those months
 are typically lower in sales. 
 
-![RegionalSalesProgress'16-'19](images/RegionalSalesProgress'16-'19.png)
+![MenuSalesProgress'16-'19](images/MenuSaleProgress'16-'19.png)
 
 Among those fluctuations, we can see a noticeable drop in October 2018 (highlighted in **red**), which we will discuss in the following paragraph.
 
@@ -36,7 +33,10 @@ Among those fluctuations, we can see a noticeable drop in October 2018 (highligh
 In October 2018, our strongest competitor **Burger King** released the **Impossible Burger**, 
 a _vegetarian_ option for their signature menu, the Whopper.
 
-The following graph charts show that after the release of the Impossible Burger, our overall sales took a critical blow of **14.1%**:
+The following graph charts show that after the release of the Impossible Burger (Oct 18, corresponding points marked in **red**), 
+our overall sales took a critical blow of **14.1%**:
+
+![RegionalSalesProgress'16-'19](images/RegionalSalesProgress'16-'19.png)
 
 
 Hamburger sales dropped **14.4%** (from $7.9m USD to $6.8m USD),
@@ -103,12 +103,7 @@ Stores in the Northwest follow a similar pattern with those regions, but at a sl
 
 ## Solution
 
-A possible attempt to increase more sales per day would be having promotions on days when sales are not as prominent as other days;
-if our stores offer in-store promotions for certain items on days that customers are less likely to visit, we can predict that
-customers may choose to visit their local McDonalds instead of other competing vendors in the area.
-
-
-# Conclusion
-
-
+A possibly effective way to increase more sales per day would be having promotions on days when sales are not as prominent as other days;
+if our stores offer in-store promotions for certain items on days that customers are less likely to visit in each area, we can predict that customers may choose to visit their local McDonalds instead of other competing vendors in the area. This would include BOGO offers
+or discount on set menus for a higher revenue.
 
