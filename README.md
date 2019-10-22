@@ -12,7 +12,7 @@ and the _broader region_ encompassing the location of each sales (**Northeast**,
 
 # Long-Term Analysis
 
-The following data will go over our **monthly sales** data in _US Dollars_**$** from **January 2016** to our most recent data from **September 2019**, covering all of the states. 
+The following data will go over our **monthly sales** data in _US Dollars_ **$** from **January 2016** to our most recent data from **September 2019**, covering all of the states. 
 
 A brief summary of our overall sales: Hamburgers are our best-selling item, with Chicken Fillet following next and the Fish Fillet after that.
 
@@ -57,17 +57,16 @@ Currently, McDonalds does not offer any vegetarian/vegan burger options in the U
 and gained high popularity. 
 I suggest that we expand the sales of McVegan burgers to the U.S. to attract potential customers and sway them from our competitor's vegetarian burgers. 
 Another crucial advantage of the McVegan is that this burger is _vegan_ as its name suggests, whereas the Impossible Burger is only _vegetarian_ because it contains mayonnaise. This means that if the McVegan is also sold in the States, it will not only attract vegetarian but also vegan customers. 
-```markdown
+
 It is estimated by the [Vegetarian Times](https://www.vegetariantimes.com/uncategorized/vegetarianism-in-america) 
 that about 1 in every 7.3 vegetarians have a vegan-only diet, 
-suggesting we could have up to an additional 15.9% influx of customers 
-(compared to consumers of the Impossible Burger) with the inclusion of the McVegan on our menu.
-```
+suggesting we could have up to an additional **15.9% influx** of customers (compared to consumers of the Impossible Burger) with the inclusion of the McVegan on our menu.
+
 
 
 # Short-Term Analysis
 
-The following content will go over our **daily sales** data in _US Dollars(**$**)_ from the month of **January, 2016**. 
+The following content will go over our **daily sales** data in _US Dollars_ **$** from the month of **January, 2016**. 
 The sales data will be divided again by two categories: the _type of menu_ and the broader _region_ for each of these sales.
 This time, we will explore if there are any discrepancies between the sales depending on the day of the week, or the time of the month
 that the purchases were made.
@@ -77,19 +76,32 @@ that the purchases were made.
 The data was aggregated as an _average_ per day of week instead of the sum since certain days (Fridays, Saturdays, Sundays) occur more often than others in this month.
 
 The 1st graph shows that there is no significant difference for each day of the week when observing just the overall trend.
-However, when looking closely, we can observe that each region has different sales trend depending on the day of the week.
+However, when looking closely, we can observe that each region has a different sales trend depending on the day of the week.
 
-For instance, the Northeast region experiences a boom in sales for every Thursdays and Sundays: 
 
-while the Southwest and Central regions show a steep increase for every Fridays and Mondays: 
+
+
 
 
 ## Sales Comparison Based on _Time of the Month_
 
-The data was aggregated as an average 
+The data was not aggregated this time as we are trying to see the gradual progress throughout the month. While we only examined the sales pattern based on single weekdays in the past paragraph, we can now see weekly patterns occuring consistently.
+
+For instance, the Northeast region experiences a boom in sales for every Thursdays and Sundays: 
+
+![]
+
+while the Southwest and Central regions show a steep increase for every Fridays and Mondays: 
+
+Stores in the Northwest follow a similar pattern with those regions, but at a slightly slower pace (about 1-2 days late).
+
+
 
 ## Solution
 
+A possible attempt to increase more sales per day would be having promotions on days when sales are not as prominent as other days;
+if our stores offer in-store promotions for certain items on days that customers are less likely to visit, we can predict that
+customers may choose to visit their local McDonalds instead of other competing vendors in the area.
 
 
 # Conclusion
