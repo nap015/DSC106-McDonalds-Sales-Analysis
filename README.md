@@ -12,7 +12,7 @@ and the _broader region_ encompassing the location of each sales (**Northeast**,
 
 # Long-Term Analysis
 
-The following data will go over our **monthly sales** data in _US Dollars(**$**)_ from **January 2016** to our most recent data from **September 2019**, covering all of the states. 
+The following data will go over our **monthly sales** data in _US Dollars_**$** from **January 2016** to our most recent data from **September 2019**, covering all of the states. 
 
 A brief summary of our overall sales: Hamburgers are our best-selling item, with Chicken Fillet following next and the Fish Fillet after that.
 
@@ -24,7 +24,7 @@ are typically lower in sales.
 
 ![Regional Sales Progress '16 - '19](Regional Sales Progress '16 - '19.png)
 
-Among those fluctuations, we can see a noticeable drop in October 2018 (highlighted in red), which we will discuss in the following paragraph.
+Among those fluctuations, we can see a noticeable drop in October 2018 (highlighted in **red**), which we will discuss in the following paragraph.
 
 
 ## Competitor Influence
