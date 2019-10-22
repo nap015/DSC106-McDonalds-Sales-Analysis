@@ -1,5 +1,5 @@
 
-### Download page as a PDF {{ https://nap015.github.io/Trend-Analysis-in-McDonalds-Sales }}/Introduction_Trend-Analysis-in-McDonalds-Sales.pdf
+[Download page as a PDF](Introduction_Trend-Analysis-in-McDonalds-Sales.pdf)
 
 # Introduction
 
