@@ -75,6 +75,7 @@ The sales data will be divided again by two categories: the _type of menu_ and t
 This time, we will explore if there are any discrepancies between the sales depending on the day of the week, or the time of the month
 that the purchases were made.
 
+
 ## Sales Comparison Based on _Day of Week_
 
 The data was aggregated as an _average_ per day of week instead of the sum since certain days (Fridays, Saturdays, Sundays) occur more often than others in this month.
@@ -82,22 +83,19 @@ The data was aggregated as an _average_ per day of week instead of the sum since
 The 1st graph shows that there is no significant difference for each day of the week when observing just the overall trend.
 However, when looking closely, we can observe that each region has a different sales trend depending on the day of the week.
 
-
-
+![RegionalSalesByWeek(2016.01)](images/AverageRegionalSalesbyDayofWeek(2016.01).png)
 
 
 
 ## Sales Comparison Based on _Time of the Month_
 
-The data was not aggregated this time as we are trying to see the gradual progress throughout the month. While we only examined the sales pattern based on single weekdays in the past paragraph, we can now see weekly patterns occuring consistently.
-
-For instance, the Northeast region experiences a boom in sales for every Thursdays and Sundays: 
-
-![RegionalSalesByWeek(2016.01)](images/AverageRegionalSalesbyDayof Week(2016.01).png)
+The data was not aggregated this time as we are trying to see the gradual progress throughout the month. While we only examined the sales pattern based on single weekdays in the past paragraph, we can now see weekly patterns occuring consistently:
 
 ![RegionalSalesProgress(2016.01)](images/RegionalSalesProgress(2016.01).png)
 
-while the Southwest and Central regions show a steep increase for every Fridays and Mondays: 
+For instance, the Northeast region experiences a boom in sales for every Thursdays and Sundays, 
+
+while the Southwest and Central regions show a steep increase for every Fridays and Mondays.
 
 Stores in the Northwest follow a similar pattern with those regions, but at a slightly slower pace (about 1-2 days late).
 
@@ -111,4 +109,6 @@ customers may choose to visit their local McDonalds instead of other competing v
 
 
 # Conclusion
+
+
 
