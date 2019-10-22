@@ -1,4 +1,6 @@
 
+### Download page as a PDF {{ https://nap015.github.io/Trend-Analysis-in-McDonalds-Sales }}/Introduction_Trend-Analysis-in-McDonalds-Sales.pdf
+
 # Introduction
 
 For the past few years, McDonald's burger sales have been increasing steadily, indicating a positive growth.
