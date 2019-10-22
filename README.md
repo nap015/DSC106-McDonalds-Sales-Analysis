@@ -93,11 +93,9 @@ The data was not aggregated this time as we are trying to see the gradual progre
 
 ![RegionalSalesProgress(2016.01)](images/RegionalSalesProgress(2016.01).png)
 
-For instance, the Northeast region experiences a boom in sales for every Thursdays and Sundays, 
-
-while the Southwest and Central regions show a steep increase for every Fridays and Mondays.
-
-Stores in the Northwest follow a similar pattern with those regions, but at a slightly slower pace (about 1-2 days late).
+For instance, the _Northeast_ region experiences a boom in sales for every **Thursdays** and **Sundays**, 
+while the _Southwest and Central_ regions show a steep increase for every **Fridays** and **Mondays**.
+Stores in the _Northwest_ follow a similar pattern with those regions, but at a slightly slower pace (about 1-2 days late).
 
 
 
